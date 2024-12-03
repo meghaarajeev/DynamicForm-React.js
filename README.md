@@ -7,13 +7,16 @@ Welcome to the **DynamicForm**, a user-friendly and feature-rich React applicati
 ## **Features**
 
 ### 1. **Dynamic Form Generation**
-![Alt text](./img/pic1.png)
+![land](./img/pic1.png)
 
 - Automatically generates forms based on pre-defined configurations, showcasing modularity and reuse of code.
 - Supports three form types:
   - **User Information**: Collects personal details like First Name, Last Name, and Age.
+  ![user](./img/pic2.png)
   - **Address Information**: Captures address details, including dropdown options for state selection.
+  ![add](./img/pic3.png)
   - **Payment Information**: Secures sensitive payment data with fields like Card Number, Expiry Date, and CVV.
+  ![add](./img/pic4.png)
 
 ### 2. **Real-Time Input Handling**
 - Real-time state updates ensure the form reacts to user inputs immediately.
